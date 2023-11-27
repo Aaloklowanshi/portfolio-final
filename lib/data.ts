@@ -36,6 +36,14 @@ export const links = [
 
 export const experiencesData = [
   {
+    title: "Software Devlopment Engineering Intern - MittArv",
+    location: "Hybrid",
+    description:
+      "Working on Web and Android devlopment and problem solving Skills - React js , Node js , Express js , Flutter , Jira , Problem Solving ",
+    icon: React.createElement(LuGraduationCap),
+    date: "1/11/2023",
+  },
+  {
     title: "Teaching Assistant Coding Ninjas",
     location: "Remote",
     description:
