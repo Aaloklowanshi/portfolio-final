@@ -47,7 +47,7 @@ export const experiencesData = [
     title: "Teaching Assistant Coding Ninjas",
     location: "Remote",
     description:
-      " Assisted 50+ students in learning C++ and Data Structures and Algorithms Took doubt session and resolved 250+ doubts with an average rating of 4.62 Helped students in their assignments",
+      " Assisted 50+ students in learning C++ and Data Structures and Algorithms Took doubt session and resolved 250+ doubts with an average rating of 4.62/5 Helped students in their assignments",
     icon: React.createElement(LuGraduationCap),
     date: "2019",
   },
