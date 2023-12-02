@@ -32,7 +32,7 @@ export default function Intro() {
           >
             <Image
               src=""
-              alt="Ricardo portrait"
+              alt="Aalok Lowanshi"
               width="192"
               height="192"
               quality="95"
@@ -65,7 +65,7 @@ export default function Intro() {
         <span className="font-bold">Hello, I'm Aalok</span> I'm a{" "}
         <span className="font-bold">full-stack developer</span> with{" "}
         <span className="font-bold"> MERN Tech</span> Currently 3rd year BTech Undergrad . I can Create
-         <span className="italic">sites & apps</span>. My focus is{" "}
+         <span className="italic"> sites & apps</span>. My focus is{" "}
         <span className="underline">React (Next.js)</span>.
       </motion.h1>
 
