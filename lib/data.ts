@@ -41,7 +41,7 @@ export const experiencesData = [
     description:
       "worked on Next js nad created dynamic websites, also create backend in typescript collaborated with different teams  ,created different components in accordance to figma design Skills - Next js , Node js , Express js  , ",
     icon: React.createElement(LuGraduationCap),
-    date: "01/01/2024 (Currently working)",
+    date: "15/01/2024 (Currently working)",
   },
   {
     title: "Software Devlopment Engineering Intern - MittArv",
