@@ -36,6 +36,14 @@ export const links = [
 
 export const experiencesData = [
   {
+    title: "Software Engineer Trainee - Gemini Solutions",
+    location: "Gurgaon , Haryana",
+    description:
+      "worked on Reactjs , Nodejs as backend in internal projects , creating reusable components , peforming testing using seleinum with java ",
+    icon: React.createElement(LuGraduationCap),
+    date: "06/01/2025 (Currently working)",
+  },
+  {
     title: "Fullstack Developer Intern - Progshee Technologies",
     location: "Remote",
     description:
